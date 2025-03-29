@@ -1,0 +1,9 @@
+Author: Sajna 
+
+Module 1 - Profile page 
+
+Module 2 - Chat screen Code
+
+mmodule 3 - Bluetick Code 
+
+Module 4 - Attachments (Image/video/Audio)
