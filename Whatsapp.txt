@@ -7,3 +7,5 @@ Module 2 - Chat screen Code
 mmodule 3 - Bluetick Code 
 
 Module 4 - Attachments (Image/video/Audio)
+
+Module 5 - Hididng last seen
