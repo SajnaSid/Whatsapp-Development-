@@ -9,3 +9,7 @@ mmodule 3 - Bluetick Code
 Module 4 - Attachments (Image/video/Audio)
 
 Module 5 - Hididng last seen
+
+Module 6 - Audio call Fetaure
+
+Module 7 - Video call feature
